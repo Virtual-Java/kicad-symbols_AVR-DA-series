@@ -40,3 +40,5 @@ DA --> series
 '-M' --> QFN  package
 
 e.g. AVR128DA64-M --> 128kB flash; DA-series; 64-pins; QFN-package
+
+![MCU_Microchip_DA_examples-alternative-pin-functions](https://github.com/Virtual-Java/kicad-symbols_AVR-DA-series/blob/master/examples/MCU_Microchip_DA_examples/MCU_Microchip_DA_examples-alternative-pin-functions.png)
